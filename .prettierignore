@@ -1,0 +1,6 @@
+dist
+.coverage
+stats.json
+*.svg
+*.gitignore
+*.prettierignore
